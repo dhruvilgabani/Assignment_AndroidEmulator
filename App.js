@@ -5,7 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Assignment-4</Text>
-      <Text style={styles.name}>Dhruvil</Text>
+      <Text style={styles.name}>Dhruvil Gabani</Text>
       <Text style={styles.bio}>Software Developer | React Native Enthusiast</Text>
       <StatusBar style="auto" />
     </View>
@@ -15,7 +15,7 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
+    backgroundColor: '#56564',
     alignItems: 'center',
     justifyContent: 'center',
   },
