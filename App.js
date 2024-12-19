@@ -6,7 +6,7 @@ export default function App() {
     <View style={styles.container}>
       <Text>Assignment-4</Text>
       <Text style={styles.name}>Dhruvil</Text>
-      <Text style={styles.bio}>Software Developer | React Native Enthusiast</Text>
+      <Text style={styles.bio}>Mobile Application</Text>
       <StatusBar style="auto" />
     </View>
   );
