@@ -5,7 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Assignment-4</Text>
-      <Text style={styles.name}>Dhruvil</Text>
+      <Text style={styles.name}>Dhruvil Gabani</Text>
       <Text style={styles.bio}>Mobile Application</Text>
       <StatusBar style="auto" />
     </View>
